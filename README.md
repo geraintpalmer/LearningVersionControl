@@ -15,3 +15,4 @@ Here are some initial commands:
 8. 'git checkout'
 9. 'git reset'
 10. 'git merge'
+11. 'git remote'

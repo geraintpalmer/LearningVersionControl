@@ -1,4 +1,4 @@
-# This is a repository in which I am going to learn some git.
+# This is an repository in which I am going to learn some git.
 
 Git is a version control system.
 
